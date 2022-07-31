@@ -1,4 +1,3 @@
-from email import header
 import requests
 from twocaptcha import TwoCaptcha
 import re
